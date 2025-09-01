@@ -1,4 +1,4 @@
-# Atividade SOLID 
+# Atividade SOLID
 
 Este trabalho foi desenvolvido por Julia de França Macena Silva e Lavínia Domingos, no dia 25/08/2025 na Unidade Curricular de Arquitetura de Sistemas pelo professor Matheus Quost.
 
